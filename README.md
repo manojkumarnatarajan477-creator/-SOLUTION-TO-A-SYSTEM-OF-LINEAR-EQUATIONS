@@ -15,7 +15,14 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 
+import numpy as np
+A = np.array([[1, -3],[3,  1]])
+B = np.array([0, 10])
+result = np.linalg.solve(A, B)
+print(result)
 ## Output:
+<img width="1314" height="825" alt="mathsforai-ex 1" src="https://github.com/user-attachments/assets/4cea3f72-70e8-4dce-b8ca-5c584d42ed8d" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
