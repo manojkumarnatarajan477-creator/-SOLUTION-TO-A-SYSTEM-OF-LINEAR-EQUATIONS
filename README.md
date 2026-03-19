@@ -26,7 +26,8 @@ print(result)
 
 
 ## Output:
-<img width="1314" height="825" alt="mathsforai-ex 1" src="https://github.com/user-attachments/assets/e16b47d0-b39c-424d-a6ab-c85653032201" />
+
+![alt text](image.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
